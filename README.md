@@ -14,7 +14,7 @@
 
 ## Description
 
-An app to dynamically generate a quality README once a series of questions have been answered.
+An app to dynamically generate a quality README once a series of questions has been answered.
 
 ## Installation Instructions
 
