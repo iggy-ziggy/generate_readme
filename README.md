@@ -24,6 +24,9 @@ git clone git@github.com:iggy-ziggy/generate_readme.git
 
 To start, navigate to the directory in your terminal and type 'node index.js' into the terminal. When initialized, a prompt will appear in the terminal. Once the questions have been answered, a README will be generated for the project. If a license was selected, a badge will appear near the top of the README and a license section will be created and added to the Table of Contents. If no license is selected, there will be no section for License.
 
+DEMO:
+https://watch.screencastify.com/v/o8ta4UheW19DFNC0YBwC
+
 ## License
 [Link to MIT License](https://opensource.org/licenses/MIT)
 
